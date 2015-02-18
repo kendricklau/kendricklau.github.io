@@ -1,2 +1,2 @@
-# kendricklau.github.io
+# kendricklau
 Personal Site
