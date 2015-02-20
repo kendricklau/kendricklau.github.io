@@ -1,0 +1,54 @@
+body{
+  background-color: #eceff1;
+
+}
+
+.name{
+  font-size: 58px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  color: #4fc3f7 ;
+  margin-bottom: -10px;
+}
+
+.title{
+  font-size: 28px;
+  font-weight: 300;
+  letter-spacing: 3px;
+  color: #607d8b;
+  margin-bottom: 35px;
+}
+
+.stats{
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: .75px;
+  line-height: 30px;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.stats dr{
+  font-weight: 400;
+}
+
+.resources{
+  margin-top: 40px;
+  font-size: 16px;
+  letter-spacing: .75px;
+  line-height: 200%;
+}
+
+.resources .rs{
+  text-decoration: underline;
+  color: #607d8b;
+}
+
+.resources .fa{
+  padding-right: 12px;
+}
+
+.moreinfo{
+  text-decoration: none;
+
+}

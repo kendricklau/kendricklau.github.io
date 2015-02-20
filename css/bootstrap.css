@@ -5831,7 +5831,7 @@ button.close {
   line-height: 1.4;
   visibility: visible;
   filter: alpha(opacity=0);
-  opacity: 0;
+  opacity: ;
 }
 .tooltip.in {
   filter: alpha(opacity=90);
@@ -5839,7 +5839,7 @@ button.close {
 }
 .tooltip.top {
   padding: 5px 0;
-  margin-top: -3px;
+  margin-top: -8px;
 }
 .tooltip.right {
   padding: 0 5px;
@@ -6568,44 +6568,3 @@ button.close {
 
 
 /*Custom CSS*/
-.name{
-  font-size: 58px;
-  font-weight: 400;
-  letter-spacing: 2px;
-  color: #00b8d4;
-}
-
-.title{
-  font-size: 28px;
-  font-weight: 300;
-  letter-spacing: 3px;
-  color: #607d8b;
-}
-
-.stats{
-  font-size: 16px;
-  font-weight: 300;
-  letter-spacing: .75px;
-  line-height: 30px;
-  color: black;
-  margin-bottom: 20px;
-}
-
-.stats dr{
-  font-weight: 400;
-}
-
-.resources{
-  padding-top:10px;
-  font-size: 16px;
-  letter-spacing: .75px;
-}
-
-.resources .rs{
-  text-decoration: underline;
-  color: #607d8b;
-}
-
-.resources .fa{
-  padding-right: 12px;
-}
